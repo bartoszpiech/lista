@@ -1,5 +1,6 @@
 # Lista
 Program which implementates list as an data type in C language.
 # Dependencies
--gcc
--make
+gcc, make
+# Compilation
+$ make
